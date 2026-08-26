@@ -1,1 +1,1 @@
-# Automatic-interest-area-recognition-in-video-ads-for-internet-marketing-information-systems
+# РАЗВИТИЕ ИНФОРМАЦИОННОЙ СИСТЕМЫ ПОДДЕРЖКИ СОВРЕМЕННОГО ИНТЕРНЕТ-МАРКЕТИНГА НА ОСНОВЕ АВТОМАТИЧЕСКОГО РАСПОЗНАВАНИЯ ОБЛАСТЕЙ ИНТЕРЕСА НА РЕКЛАМНЫХ ИЗОБРАЖЕНИЯХ В ВИДЕОПОТОКЕ
