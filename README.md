@@ -122,12 +122,13 @@
 
 ## Алгоритмическая модель
 
-<img width="1874" height="1156" alt="image" src="https://github.com/user-attachments/assets/eb44d33e-a863-4bdf-810d-3cb21337c1af" />
+<img width="716" height="995" alt="image" src="https://github.com/user-attachments/assets/ed20874a-76ac-4a2e-b4d1-8f82dfea5cab" />
 
 <img width="749" height="986" alt="image" src="https://github.com/user-attachments/assets/3b295cc1-2758-4ce5-b771-6bd492836cd1" />
 
 ## Проектирование
-<img width="315" height="80" alt="image" src="https://github.com/user-attachments/assets/d09edc96-1108-439e-99f9-ff92ec74fdff" />
+
+<img width="1885" height="923" alt="image" src="https://github.com/user-attachments/assets/4762a120-7a82-4531-b506-a90f1f95fe16" />
 
 ## Инженерная реализация
 
