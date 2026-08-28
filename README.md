@@ -180,7 +180,7 @@
 
 ## Результат работы программы
 
-https://github.com/user-attachments/assets/089043f3-a1a8-4a01-8cc3-2e052992e790
+- video_result
 
 ## Заключение
 
